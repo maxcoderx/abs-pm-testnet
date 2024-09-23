@@ -11,8 +11,8 @@ declare global {
   }
 }
 
-const NFT_CONTRACT_ADDRESS = "0xC4822AbB9F05646A9Ce44EFa6dDcda0Bf45595AA";
-const PAYMASTER_ADDRESS = "0xa8dA6C5bf7dA8c2D5A642D3dcc0E04D68D134806";
+const NFT_CONTRACT_ADDRESS = "0x8441e18c150A6dbCC5783917F3A4Ed7A00025335";
+const PAYMASTER_ADDRESS = "0x768AFAF49Ab01a08F63aE713899584074a407318";
 
 // This chain config will be added to a future version of viem
 // https://github.com/wevm/viem/pull/2581
